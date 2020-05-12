@@ -1,0 +1,13 @@
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\bin\Debug\netcoreapp3.1\csharp_lab2_task3.exe
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\bin\Debug\netcoreapp3.1\csharp_lab2_task3.deps.json
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\bin\Debug\netcoreapp3.1\csharp_lab2_task3.runtimeconfig.json
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\bin\Debug\netcoreapp3.1\csharp_lab2_task3.runtimeconfig.dev.json
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\bin\Debug\netcoreapp3.1\csharp_lab2_task3.dll
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\bin\Debug\netcoreapp3.1\csharp_lab2_task3.pdb
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.csprojAssemblyReference.cache
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.csproj.CoreCompileInputs.cache
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.AssemblyInfoInputs.cache
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.AssemblyInfo.cs
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.dll
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.pdb
+C:\Users\ld01\source\repos\csharp_lab2_task3\csharp_lab2_task3\obj\Debug\netcoreapp3.1\csharp_lab2_task3.genruntimeconfig.cache

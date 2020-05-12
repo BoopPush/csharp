@@ -1,0 +1,13 @@
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\bin\Debug\netcoreapp3.1\csharp_lab2_task2.exe
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\bin\Debug\netcoreapp3.1\csharp_lab2_task2.deps.json
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\bin\Debug\netcoreapp3.1\csharp_lab2_task2.runtimeconfig.json
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\bin\Debug\netcoreapp3.1\csharp_lab2_task2.runtimeconfig.dev.json
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\bin\Debug\netcoreapp3.1\csharp_lab2_task2.dll
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\bin\Debug\netcoreapp3.1\csharp_lab2_task2.pdb
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.csproj.CoreCompileInputs.cache
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.AssemblyInfoInputs.cache
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.AssemblyInfo.cs
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.dll
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.pdb
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.genruntimeconfig.cache
+C:\Users\ld01\source\repos\csharp_lab2_task2\csharp_lab2_task2\obj\Debug\netcoreapp3.1\csharp_lab2_task2.csprojAssemblyReference.cache
