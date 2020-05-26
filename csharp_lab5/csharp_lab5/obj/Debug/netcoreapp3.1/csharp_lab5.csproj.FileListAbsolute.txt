@@ -1,0 +1,13 @@
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.csprojAssemblyReference.cache
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.csproj.CoreCompileInputs.cache
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.AssemblyInfoInputs.cache
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.AssemblyInfo.cs
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\bin\Debug\netcoreapp3.1\csharp_lab5.exe
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\bin\Debug\netcoreapp3.1\csharp_lab5.deps.json
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\bin\Debug\netcoreapp3.1\csharp_lab5.runtimeconfig.json
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\bin\Debug\netcoreapp3.1\csharp_lab5.runtimeconfig.dev.json
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\bin\Debug\netcoreapp3.1\csharp_lab5.dll
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\bin\Debug\netcoreapp3.1\csharp_lab5.pdb
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.dll
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.pdb
+C:\Users\ld01\source\repos\csharp_lab5\csharp_lab5\obj\Debug\netcoreapp3.1\csharp_lab5.genruntimeconfig.cache
