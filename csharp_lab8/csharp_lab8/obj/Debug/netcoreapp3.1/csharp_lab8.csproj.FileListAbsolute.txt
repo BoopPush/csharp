@@ -1,0 +1,13 @@
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\bin\Debug\netcoreapp3.1\csharp_lab8.exe
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\bin\Debug\netcoreapp3.1\csharp_lab8.deps.json
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\bin\Debug\netcoreapp3.1\csharp_lab8.runtimeconfig.json
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\bin\Debug\netcoreapp3.1\csharp_lab8.runtimeconfig.dev.json
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\bin\Debug\netcoreapp3.1\csharp_lab8.dll
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\bin\Debug\netcoreapp3.1\csharp_lab8.pdb
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.csprojAssemblyReference.cache
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.csproj.CoreCompileInputs.cache
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.AssemblyInfoInputs.cache
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.AssemblyInfo.cs
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.dll
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.pdb
+C:\Users\ld01\source\repos\csharp_lab8\csharp_lab8\obj\Debug\netcoreapp3.1\csharp_lab8.genruntimeconfig.cache
